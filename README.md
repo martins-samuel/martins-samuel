@@ -38,7 +38,7 @@ Projeto de IoT utilizando ESP8266, motor de passo e Firebase para alimentação 
 🔹 [**App de Treino Abdominal - 30 Dias (React Native)**](https://github.com/martins-samuel/app-treino-abdominal)  
 Aplicativo mobile com treinos por nível, desafios diários e calendário de progresso. Desenvolvido com React Native e SQLite.
 
-🔹 [**Pomodoro Estudos App (React Native)**](https://github.com/matheusvaraujo/react_pomodoro)  
+🔹 [**Pomodoro Estudos App (React Native)**](https://github.com/martins-samuel/PomoEstudo)  
 App de produtividade com técnica Pomodoro, lista de tarefas, calendário e integração com banco local.
 
 🔹 [**Sistema CRUD com Python e Tkinter**](https://github.com/martins-samuel/RAD_CRUD_)  

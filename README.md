@@ -24,7 +24,8 @@
 <br><br>
 <p align="center">
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=martins-samuel&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-samuel&layout=compact&theme=radical)
+
 
 ![Top Linguagens](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-samuel&layout=compact&theme=radical)
 )

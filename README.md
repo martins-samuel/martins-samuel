@@ -27,7 +27,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-samuel&layout=compact&theme=radical)
 
 
-![Top Linguagens](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-samuel&layout=compact&theme=radical)
+![Top Linguagens](![Top Langs](https://camo.githubusercontent.com/8f47665b4885967a6e0bb03e9a0b16da9857e50acad19448953293733d28f5cc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d617274696e732d73616d75656c266c61796f75743d636f6d70616374267468656d653d7261646963616c)
 )
 </p>
 <br>
